@@ -3,7 +3,7 @@ Diagnose-Your-Browser(DYB): A First Project for Digital Wellbeing
 
 What it does: 
 This python program will create txt files that contain the analysis of your browsers' history 
-and lists of the visited urls sorted by most visited website.
+and lists of the visited urls sorted by most visited websites.
 
 Technique:
 Python3 modules, including sqlite3
