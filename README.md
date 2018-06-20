@@ -9,6 +9,7 @@ Technique:
 Python3 modules, including sqlite3
 
 Requirement: YOU MUST HAVE PYTHON3 or above TO RUN THIS PROGRAM. 
+
 Available For Windows 10 / MacOS
 Available For Safari, Google Chrome, and Firefox
 
