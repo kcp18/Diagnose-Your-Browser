@@ -10,6 +10,7 @@ Python3 modules, including sqlite3
 
 Requirement: YOU MUST HAVE PYTHON3 or above TO RUN THIS PROGRAM. 
 Available For Windows 10 / MacOS
+Available For Safari, Google Chrome, and Firefox
 
 If you have installed the psutil library in your system, please run Diagnose.py. 
 Otherwise, Please run Diagnose_no_psutil.py on your cmd/terminal. 
