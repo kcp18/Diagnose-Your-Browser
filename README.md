@@ -19,3 +19,5 @@ Otherwise, Please run Diagnose_no_psutil.py on your cmd/terminal.
 Example 
 
 ![](/result.png)
+
+<img src="result.png">
