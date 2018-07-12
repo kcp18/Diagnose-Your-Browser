@@ -11,7 +11,7 @@ Python3 and sqlite3
              1. Run this program in Python 3 
              2. Please completely close Google Chrome before running this program.
 
-Available For Windows/Macintosh
+Available For Windows/Macintosh <br>
 Available For Safari, Google Chrome, and Firefox
 
 If you have installed the psutil library in your system, please run Diagnose.py. 
