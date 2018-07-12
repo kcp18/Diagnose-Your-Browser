@@ -11,8 +11,6 @@ import psutil
 
 from Domain import get_domain_dictionary
 
-# file.py, class domain remember this 
-
 def get_browser_history(browser, path):
     browser = browser.lower()
         
