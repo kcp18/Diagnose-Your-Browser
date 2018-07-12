@@ -1,23 +1,21 @@
 # Diagnose-Your-Browser
-Diagnose-Your-Browser(DYB): A First Project for Digital Wellbeing
+Diagnose-Your-Browser(DYB): A Project for Digital Wellbeing
 
 What it does: 
 This python program will create txt files that contain the analysis of your browsers' history 
 and lists of the visited urls sorted by most visited websites.
 
 Technique:
-Python3 modules, including sqlite3
+Python3 and sqlite3
 
-Requirement: YOU MUST HAVE PYTHON3 or above TO RUN THIS PROGRAM. 
+Requirement: 1. Run this program in Python3 
+             2. Please completely close Google Chrome before running this program.
 
-Available For Windows 10 / MacOS
+Available For Windows/Macintosh
 Available For Safari, Google Chrome, and Firefox
 
 If you have installed the psutil library in your system, please run Diagnose.py. 
 Otherwise, Please run Diagnose_no_psutil.py on your cmd/terminal. 
 
 Example 
-
-![](/result.png)
-
-<img src="result.png">
+<img src="result.png" width="515" height="369">
