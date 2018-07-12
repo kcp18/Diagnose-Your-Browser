@@ -9,7 +9,7 @@ Python3 and sqlite3
 
 ## Requirement: 
              1. Run this program in Python 3 
-             2. Please completely close Google Chrome before running this program.
+             2. Please completely close Google Chrome before running this program if you are using Chrome.
 
 Available For Windows/Macintosh <br>
 Available For Safari, Google Chrome, and Firefox
