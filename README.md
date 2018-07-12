@@ -1,5 +1,4 @@
-# Diagnose-Your-Browser
-Diagnose-Your-Browser(DYB): A Project for Digital Wellbeing
+# Diagnose-Your-Browser (DYB): A Project for Digital Wellbeing
 
 ## What it does: 
 This python program will create txt files that contain the analysis of your browsers' history 
