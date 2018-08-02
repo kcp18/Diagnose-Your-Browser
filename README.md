@@ -14,7 +14,7 @@ Python3 and sqlite3
 Available For Windows/Macintosh <br>
 Available For Safari, Google Chrome, and Firefox
 
-Please run Diagnose.py on your cmd/terminal. 
+Please run diagnose.py on your cmd/terminal. 
 
 # Screenshot 
 
