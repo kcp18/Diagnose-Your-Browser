@@ -143,7 +143,7 @@ if __name__ == "__main__":
     print('Welcome to the DYB! (Dignose Your Browsers)\n')
     print('If you are using Google Chrome,')
     print('you MUST COMPLETELY close Chrome before running this program')
-    time.sleep(5) 
+    time.sleep(2) 
     user_input = input('would you like to continue (Y/N)?\n')
     if user_input.lower() == 'y':
         time.sleep(1)          
